@@ -1,0 +1,6 @@
+ specify intentionally untracked files that Git should ignore: .gitignore
+
+Create .gitignore file (hidden) in your project directory.
+List files/extensions to ignore (e.g., .DS_Store, *.txt).
+Prevents leaks & unnecessary uploads to remote repositories.
+Use pre-built templates from GitHub (https://github.com/github/gitignore).
