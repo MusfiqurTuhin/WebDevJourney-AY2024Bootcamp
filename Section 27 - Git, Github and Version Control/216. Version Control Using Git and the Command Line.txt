@@ -1,9 +1,9 @@
 Initialize a Git repository: 		git init
 Add files to the staging area: 
-				1. git add file1.extension file2.extension ...   # Add specific files
-				2. git add .    # Add all files in the current directory
+					1. git add file1.extension file2.extension ...   # Add specific files
+					2. git add .    # Add all files in the current directory
 	
 Commit changes: 			git commit -m "commit message"
 Check the status of the repository: 	git status
-View changes in a specific file: 		git diff file.extension
+View changes in a specific file: 	git diff file.extension
 Undo local changes:			git checkout file.extension
