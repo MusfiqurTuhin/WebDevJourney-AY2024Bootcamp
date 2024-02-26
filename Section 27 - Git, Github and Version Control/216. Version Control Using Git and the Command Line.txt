@@ -7,3 +7,4 @@ Commit changes: 			git commit -m "commit message"
 Check the status of the repository: 	git status
 View changes in a specific file: 	git diff file.extension
 Undo local changes:			git checkout file.extension
+View the commit history:		git log
