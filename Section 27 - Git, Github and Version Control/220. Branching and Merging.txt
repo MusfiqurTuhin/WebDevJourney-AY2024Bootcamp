@@ -1,0 +1,25 @@
+Creating a New Branch:
+				Command: git branch <branch_name>
+				Example: git branch alien-plot
+
+Switching Between Branches:
+				Command: git checkout <branch_name>
+				Example: git checkout main
+
+Viewing Branches:
+				Command: git branch
+			
+Committing Changes:
+				Command: git commit -m "<commit_message>"
+
+Adding and Committing Changes Together:
+				Command: git add . (for adding changes)
+				Command: git commit -m "<commit_message>" (for committing changes)
+
+Merging Branches:
+
+				Command: git merge <branch_name>
+
+Pushing Changes to Remote Repository:
+				Command: git push origin <branch_name>
+				Example: git push origin main
