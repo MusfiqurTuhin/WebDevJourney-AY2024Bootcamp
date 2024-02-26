@@ -1,2 +1,3 @@
 Add a remote repository:              git remote add origin <remote_url>
 Push changes to a remote repository:  git push -u <remote_name> <branch_name> #git push -u origin main
+Clone a repository from a remote URL: git clone <repository_url>
